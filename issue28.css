@@ -1,0 +1,109 @@
+//Frase news e Stories
+.news-stories {
+height: 22px;
+width: 146px;
+color: #023E20;
+font-family: "Museo Sans Rounded";
+font-size: 18px;
+letter-spacing: 0;
+line-height: 22px;
+}
+
+mostrando resultados
+.showing-9-of-454-res {
+height: 22px;
+width:  182px;
+color: #0A0A0A;
+font-family: "Open Sans";
+font-size: 16px;
+letter-spacing: 0;
+line-height: 22px;
+}
+
+//risco de retangulo
+.rectangle-copy-21{
+height: 1px;
+width: 880px;
+border-radius: 10px:
+background-color: #DDDDDD;
+
+//setinha do filtro
+.caret-down-font-awesome-copy-4{
+height: 18px;
+width: 11px;
+color: #023E20;
+font-family: FontAwesome;
+font-size: 18px;
+letter-spacing: 0;
+line-height: 18px;
+}
+
+//mostrando os filtros
+.filter-the-list{
+height: 22px;
+width: 103px;
+color: #0A0A0A;
+font-family: "Open Sans";
+font-size: 16px;
+font-weight: bold;
+letter-spacing: 0;
+line-height: 22px;
+}
+
+//css do filtro topic
+.rectangle-copy-6{
+box-sizing: border-box;
+height: 36px;
+width: 199px;
+border: 2px solid #DDDDDD;
+border-radius: 10px;
+
+//css do filtro author
+.rectangle-copy-7{
+box-sizing: border-box;
+height: 36px;
+width: 199px;
+border: 2px solid #DDDDDD;
+border-radius: 10px;
+
+//css do filtro author
+.rectangle-copy-8{
+box-sizing: border-box;
+height: 36px;
+width: 199px;
+border: 2px solid #DDDDDD;
+border-radius: 10px;
+
+//css do filtro data
+.rectangle-copy-18{
+box-sizing: border-box;
+height: 36px;
+width: 199px;
+border: 2px solid #DDDDDD;
+border-radius: 10px;
+
+//filtro que mostra recentes
+.sort-by{
+height: 22px;
+width: 57px;
+opacity: 0.5;
+color: #0A0A0A;
+font-family: "Open Sans";
+font-size :16px;
+letter-spacing: 0;
+line-height: 22px;
+text-align: right;
+}
+
+//filtro que mostra recentes
+.latest{
+height: 22px;
+width: 58px;
+color: #023E20;
+font-family: "Open Sans";
+font-size: 16px;
+font-weight: bold;
+letter-spacing: 0;
+line-height: 22px;
+}
+
